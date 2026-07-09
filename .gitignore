@@ -1,0 +1,5 @@
+#Ignora el archivo desktop.ini
+desktop.ini
+
+#Ignora todos los archivos que sean .log
+*.log
