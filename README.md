@@ -1,5 +1,7 @@
 # Buscador de Usuarios de GitHub
 
+[Ver demo en vivo](https://fckagstn.github.io/Buscador-github/)
+
 ## Descripción
 
 Este proyecto es una aplicación web que permite buscar usuarios de GitHub mediante su nombre de usuario. La aplicación consume la API pública de GitHub para obtener información del usuario y mostrarla de forma clara y organizada en una tarjeta con un diseño sencillo.
