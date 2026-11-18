@@ -1,6 +1,6 @@
 # Buscador de Usuarios de GitHub
 
-[Ver demo en vivo](https://fckagstn.github.io/Buscador-github/)
+[Ver demo en vivo](https://iamagustn.github.io/Buscador-github/)
 
 ## Descripción
 
